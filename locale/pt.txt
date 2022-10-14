@@ -1,0 +1,20 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_C5B64A09_D709_F82D_41C2_FC877877BC67.label = 1
+panorama_C74133C2_D70A_E81F_41AE_64D1765B0855.label = 2
+panorama_C7437536_D70A_E867_41AD_C88CF8E8A46C.label = 3
+panorama_C74016E9_D70B_29ED_41E6_9B63673D11F8.label = 4
+panorama_C7436512_D70B_283F_41E8_5CA2C98B1AFF.label = 5
+panorama_C743E399_D70B_682D_41C9_130DCB0B2C09.label = 6
+panorama_C5CDD27F_D709_28E5_41D8_204A8B6F3DAB.label = Fachada Rssenha
+panorama_C72E6FAE_D709_3867_41D8_0B233C2A9F9B.label = Interior Resenha
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 16
